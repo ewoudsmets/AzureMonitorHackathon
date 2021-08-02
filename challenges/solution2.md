@@ -1,7 +1,7 @@
 
 # Challenge 2; The Solution
 
-This page will take you step by step through solving challenge one.
+This page will take you step by step through solving challenge two.
 
 ## Solution Steps:
 

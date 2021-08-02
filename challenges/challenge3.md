@@ -1,6 +1,6 @@
 ## Challenge 3:  Workbooks
 
-The aim of the first challenge is to understand what is Azure Workbooks and how to create them
+The aim of the third challenge is to understand what is Azure Workbooks and how to create them
 
 ### Main Objective:
 The aim of this challenge is to create a report that combines browser, web server and infrastructure performance in a single page. 
